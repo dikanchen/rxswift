@@ -1,0 +1,6 @@
+framework module Pods_combinedcodex {
+  umbrella header "Pods-combinedcodex-umbrella.h"
+
+  export *
+  module * { export * }
+}
